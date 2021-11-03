@@ -1,0 +1,22 @@
+body{
+    font-family:'trebuchet MS',Time 'Times New Roman', Times, serif;
+    background-color:lime
+}
+h1 {
+ color:#ff00f7;
+} 
+
+thead{font-weight: bold;
+
+}
+
+thead td {text-align:center;
+
+}
+
+table{
+ border-collapse: collapse;
+} 
+
+ td{
+    border:1px solid black
